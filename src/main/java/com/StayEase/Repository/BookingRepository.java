@@ -2,8 +2,8 @@ package com.StayEase.Repository;
 
 import com.StayEase.Models.Booking;
 import com.StayEase.Models.Hotel;
+import com.StayEase.Models.User;
 import org.springframework.data.jpa.repository.JpaRepository;
-import org.springframework.security.core.userdetails.User;
 
 import java.util.List;
 
